@@ -1,3 +1,5 @@
+// https://github.com/sharif0545/JavaScript-first-assignment
+
 // Largest name of friends 
 function megaFriend(friends){
 	if(friends != ''){
